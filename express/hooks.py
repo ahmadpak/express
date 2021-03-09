@@ -29,11 +29,13 @@ doctype_js = {
     "Material Request" : "public/js/material_request.js",
     "Stock Reconciliation" : "public/js/stock_reconciliation.js",
     "Purchase Invoice" : "public/js/purchase_invoice.js",
+    "Purchase Receipt" : "public/js/purchase_receipt.js",
     "Sales Invoice" : "public/js/sales_invoice.js"
     }
 doctype_list_js = {
     "Stock Reconciliation" : "public/js/stock_reconciliation_list.js",
     "Purchase Invoice" : "public/js/purchase_invoice_list.js",
+    "Purchase Receipt" : "public/js/purchase_receipt_list.js",
     "Sales Invoice" : "public/js/sales_invoice_list.js"
     }
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
